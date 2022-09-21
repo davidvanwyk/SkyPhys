@@ -3,6 +3,11 @@ SkyPhys Unreal Plugin
 
 The SkyPhys Plugin for UE4 aims to allow the user to (relatively) accurately simulate 6-DoF flight systems (this could also be extended to aquatic systems relatively easily).
 
+Usage
+-----
+
+You are free to use this in any project, but it would be appreciated to reference it. If you're working on something big and need more dedicated support; or if you have any questions - please feel free to contact me (see Github profile).
+
 Current Features
 ----------------
 
